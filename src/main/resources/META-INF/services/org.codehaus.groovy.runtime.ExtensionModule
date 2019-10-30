@@ -1,0 +1,4 @@
+moduleName=Groovy Extensions
+moduleVersion=1.0
+extensionClasses=io.spotnext.groovier.StringExtension
+staticExtensionClasses=
