@@ -10,6 +10,10 @@ class StringExtension {
         return StringUtils.trimToNull(string)
     }
 
+    static String trimToEmpty(String string) {
+        return StringUtils.trimToEmpty(string)
+    }
+
     static boolean isBlank(String string) {
         return StringUtils.isBlank(string)
     }
